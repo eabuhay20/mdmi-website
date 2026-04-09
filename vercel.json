@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/toms",
+      "destination": "/toms-course.html"
+    }
+  ]
+}
